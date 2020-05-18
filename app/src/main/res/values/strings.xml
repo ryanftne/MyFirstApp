@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="Welcome_msg">Bienvenue sur l'appli</string>
 </resources>
